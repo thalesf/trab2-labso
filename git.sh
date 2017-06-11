@@ -9,5 +9,5 @@ git remote add origin https://github.com/thalesf/trab2-labso.git
 
 
 git commit -m "$mensagem"
-git push 
+git push origin
 
