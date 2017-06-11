@@ -7,7 +7,6 @@ read mensagem
 
 git add remote https://github.com/thalesf/trab2-labso.git
 
-
 git commit -m "$mensagem"
 git push origin master
 
