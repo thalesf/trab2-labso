@@ -7,5 +7,5 @@ echo "Entre com uma mensagem para o commit"
 read mensagem
 
 git commit -m "$mensagem"
-git push origin master
+git push origin
 
